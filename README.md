@@ -26,4 +26,4 @@ A simple multifunctional WhatsApp Bot.
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://abhidevofficial.github.io/koyeb-redirect)
 
-**INFO: _AFTER DEPLOYING, PLEASE MAKE SURE THAT YOU HAVE UPLOADED THE SESSION FILE ( neo.session.json ) TO THE NEWLY CREATED REPOSITORY ( Neo ) IN YOUR GITHUB ACCOUNT._**
+**INFO: _BEFORE DEPLOYING, PLEASE MAKE SURE THAT YOU HAVE UPLOADED THE SESSION FILE ( neo.session.json ) TO THE NEWLY CREATED REPOSITORY ( Neo ) IN YOUR GITHUB ACCOUNT._**
