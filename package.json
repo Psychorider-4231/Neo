@@ -1,6 +1,6 @@
 {
   "name": "Neo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Created to be unique.",
   "main": "index.js",
   "type": "commonjs",
