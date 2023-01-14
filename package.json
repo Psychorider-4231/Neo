@@ -1,6 +1,6 @@
 {
   "name": "Neo",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Created to be unique.",
   "main": "index.js",
   "type": "commonjs",
@@ -13,7 +13,6 @@
     "whatsapp",
     "bot",
     "md",
-    "abhi",
     "baileys-md"
   ],
   "author": "AbhiDevOfficial",
@@ -21,11 +20,13 @@
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
+    "@abhidevofficial/simple-apis": "^1.1.11",
     "wa-sticker-formatter": "^4.3.2",
+    "acrcloud": "1.4.0",
     "axios": "^0.24.0",
     "g-i-s": "^2.1.6",
     "chalk": "^4.1.2",
-    "emoji-api": "^3.0.1",
+    "instagram-url-direct": "^1.0.13",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
     "google-translate-tts": "^0.4.0-dev",
@@ -42,6 +43,8 @@
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
     "lowdb": "^2.1.0",
+    "sequelize": "^6.5.1",
+    "sqlite3": "^5.1.4",
     "moment-timezone": "^0.5.34",
     "node-fetch": "^2.6.1",
     "node-webpmux": "^3.1.0",
@@ -51,8 +54,7 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
     "translatte": "^3.0.0",
-    "util": "^0.12.4",
-    "yargs": "^17.2.1"
+    "util": "^0.12.4"
   },
   "directories": {
     "lib": "lib",
