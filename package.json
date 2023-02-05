@@ -27,6 +27,7 @@
     "g-i-s": "^2.1.6",
     "chalk": "^4.1.2",
     "instagram-url-direct": "^1.0.13",
+    "@octokit/core": "^4.2.0",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
     "google-translate-tts": "^0.4.0-dev",
