@@ -6,7 +6,7 @@ A simple multifunctional WhatsApp Bot.
 - **STEP 1:**
   - **CLICK THE BUTTON BELOW AND TURN ON DESKTOP SITE THEN CLICK THE RUN BUTTON WHICH SHOWN RIGHT ABOVE.**
   - **[ ⚠️ DESKTOP SITE MUST BE TURNED ON! ]**
-  - [![Run on Repl.it](https://repl.it/badge/github/AbhiDevOfficial/Neo)](https://repl.it/@AbhiDevOfficial/Neo?v=1?outputonly=1&lite=1)
+  - [![Run on Repl.it](https://repl.it/badge/github/AbhiDevOfficial/Neo)](https://repl.it/@AbhiDevOfc/Neo?v=1?outputonly=1&lite=1)
 
 - **STEP 2:**
   - **OPEN WHATSAPP AND '⋮' THREE DOTS > CLICK 'Linked devices' > CLICK 'Link a device'**
