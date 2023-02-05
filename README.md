@@ -21,6 +21,7 @@ A simple multifunctional WhatsApp Bot.
   - [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/bJZwuH?referralCode=5QCaZZ)
 
 - **STEP 5:**
+  - **CLICK '3 Pre-Configured Environment Variables'.**
   - **FILL NECESSARY VARIABLES AND CLICK 'Deploy' BUTTON.**
 
 - **STEP 6:**
